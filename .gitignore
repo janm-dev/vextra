@@ -1,0 +1,11 @@
+.vscode
+
+target
+*/target
+*/dist
+*/node_modules
+*/.env
+
+hardware/*.lck
+hardware/device-backups
+hardware/fp-info-cache
